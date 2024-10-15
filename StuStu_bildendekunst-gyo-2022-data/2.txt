@@ -1,0 +1,41 @@
+Die Seite zeigt eine Tabelle mit zwei Spalten und acht Zeilen, die den Titel "Struktur ueberfachlicher Kompetenzen" traegt. Die linke Spalte ist ueberschrieben mit "Personale Kompetenzen" und die rechte Spalte mit "Lernmethodische Kompetenzen". Jede Zeile enthaelt einen Begriff in der linken Spalte und eine kurze Beschreibung in der rechten Spalte. Unterhalb der Tabelle befindet sich ein Abschnitt mit dem Titel "2.2 Fachliche Kompetenzen", der aus mehreren Absaetzen besteht. Die Seite ist auf Deutsch geschrieben und scheint Teil eines Lehrplans zu sein.
+
+**Seite: 12**
+
+**Struktur ueberfachlicher Kompetenzen**
+
+| **Personale Kompetenzen** | **Lernmethodische Kompetenzen** |
+| --- | --- |
+| Selbstwirksamkeit | Lernstrategien |
+| Selbstbehauptung | Problemlösefähigkeit |
+| Selbstreflexion | Medienkompetenz |
+| Motivationale Einstellungen | Soziale Kompetenzen |
+| Engagement | Kooperationsfähigkeit |
+| Lernmotivation | Konstruktiver Umgang mit Konflikten |
+| Ausdauer | Konstruktiver Umgang mit Vielfalt |
+
+**2.2 Fachliche Kompetenzen**
+
+Die Anforderungen sind entsprechend den Halbjahren gegliedert. Da die Anforderungen erst Ende von S4 erreicht sein müssen, sind auch Anforderungen formuliert worden, die sich erst aus einer Vernetzung der einzelnen Jahrgänge ergeben.
+
+Gegliedert sind die Anforderungen entsprechend den Kompetenzbereichen in:
+
+A Räumliche Orientierung
+
+B Raumansys
+
+C Raumbewertung
+
+D Raumverantwortung
+
+E Digitale Kompetenzen
+
+F Bildung für nachhaltige Entwicklung
+
+Das erhohte Anforderungsniveau unterscheidet sich vom grundlegenden Niveau grundsätzlich in drei Aspekten:
+
+*   im Hinblick auf Reichweite und Komplexität des ausgewählten geographischen Gegenstands bzw. der zugrundeliegenden Problemstellung,
+
+*   in Bezug auf Umfang und Schwierigkeit der eingesetzten Materialien,
+
+*   hinsichtlich der wissenschaftsprädeutischen Anteile.

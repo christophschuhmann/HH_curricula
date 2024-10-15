@@ -1,0 +1,50 @@
+**Beschreibung des visuellen Inhalts:**
+
+Auf der Seite ist ein Lehrplan zu sehen, der in einem tabellarischen Format die Struktur überfachlicher Kompetenzen darstellt. Die Tabelle ist in zwei Spalten unterteilt, wobei die linke Spalte die Personale Kompetenzen und die rechte Spalte die Lernmethodische Kompetenzen auflistet. Jede Spalte enthält mehrere Unterpunkte, die jeweils mit einem Titel und einer kurzen Beschreibung versehen sind. Darunter befindet sich ein Abschnitt mit dem Titel "2.2 Fachliche Kompetenzen", der eine Aufzählung von Punkten enthält, die sich auf die Anforderungen an die Schüler beziehen. Am Ende der Seite ist die Seitennummer 12 angegeben.
+
+**OCR-Transkription:**
+
+**Struktur überfachlicher Kompetenzen**
+
+| **Personale Kompetenzen** | **Lernmethodische Kompetenzen** |
+| --- | --- |
+| **Selbstwirksamkeit** | **Lernstrategien** |
+| ... hat Vertrauen in die eigenen Fähigkeiten und glaubt an die Wirksamkeit des eigenen Handelns. | ... geht beim Lernen strukturiert und systematisch vor, plant und organisiert eigene Arbeitsprozesse. |
+| **Selbstbehauptung** | **Problemlösefähigkeit** |
+| ... entwickelt eine eigene Meinung, trifft eigene Entscheidungen und vertritt diese gegenüber anderen. | ... kennt und nutzt unterschiedliche Wege, um Probleme zu lösen. |
+| **Selbstreflexion** | **Medienkompetenz** |
+| ... schätzt eigene Fähigkeiten realistisch ein und nutzt eigene Potenziale. | ... kann Informationen sammeln, aufbereiten, bewerten und präsentieren. |
+| **Motivationale Einstellungen** | **Soziale Kompetenzen** |
+| (Die Schülerin, der Schüler...) | (Die Schülerin, der Schüler...) |
+| **Engagement** | **Kooperationsfähigkeit** |
+| ... setzt sich für Dinge ein, die ihm wichtig sind, zeigt Einsatz und Initiative. | ... arbeitet gut mit anderen zusammen, übernimmt Aufgaben und Verantwortung in Gruppen. |
+| **Lernmotivation** | **Konstruktiver Umgang mit Konflikten** |
+| ... ist motiviert, Neues zu lernen und Dinge zu verstehen, strengt sich an, um sich zu verbessern. | ... verhält sich in Konflikten angemessen, versteht die Sichtweisen anderer und geht darauf ein. |
+| **Ausdauer** | **Konstruktiver Umgang mit Vielfalt** |
+| ... arbeitet ausdauernd und konzentriert, gibt auch bei Schwierigkeiten nicht auf. | ... zeigt Toleranz und Respekt gegenüber anderen und geht angemessen mit Widersprüchen um. |
+
+**2.2 Fachliche Kompetenzen**
+
+Die Anforderungen sind entsprechend den Halbjahren gegliedert. Da die Anforderungen erst Ende von S4 erreicht sein müssen, sind auch Anforderungen formuliert worden, die sich erst aus einer Vernetzung der einzelnen Jahrgänge ergeben.
+
+Gegliedert sind die Anforderungen entsprechend den Kompetenzbereichen in:
+
+A Räumliche Orientierung
+
+B Raumwahrnehmung
+
+C Raumbewertung
+
+D Raumverantwortung
+
+E Digitale Kompetenzen
+
+F Bildung für nachhaltige Entwicklung
+
+Das erhöhte Anforderungsniveau unterscheidet sich vom grundlegenden Niveau grundsätzlich in drei Aspekten:
+
+*   im Hinblick auf Reichweite und Komplexität des ausgewählten geographischen Gegenstands bzw. der zugrundeliegenden Problemstellung,
+*   in Bezug auf Umfang und Schwierigkeit der eingesetzten Materialien,
+*   hinsichtlich der wissenschaftsprädeutischen Anteile.
+
+**Seite:** 12
